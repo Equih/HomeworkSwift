@@ -40,13 +40,6 @@ class Auto{
     }
 }
 
-//var velocidad = Velocidades(velocidadInicial: .Apagado)
-
-
-/*var carro = Auto()
-carro.velocidad
-carro.velocidad = .VelocidadAlta
-carro.velocidad*/
 
 var auto = Auto()
 for var i = 0; i < 20; i++ {
